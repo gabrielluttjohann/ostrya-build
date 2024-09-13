@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ostrya-build/static/css/main.0ccf5c8d.css",
-    "main.js": "/ostrya-build/static/js/main.96fab2ca.js",
+    "main.js": "/ostrya-build/static/js/main.5d39696e.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/fa-duotone-900.svg": "/ostrya-build/static/media/fa-duotone-900.f187447b2b172f21a1bb.svg",
     "static/media/fa-light-300.svg": "/ostrya-build/static/media/fa-light-300.fd644543ca35b598f64b.svg",
@@ -22,6 +22,7 @@
     "static/media/fa-regular-400.ttf": "/ostrya-build/static/media/fa-regular-400.7606d9430562a89b8ac6.ttf",
     "static/media/investments-05.png": "/ostrya-build/static/media/investments-05.3d933830db2d69621886.png",
     "static/media/investments-04.png": "/ostrya-build/static/media/investments-04.2eb8aba4298de6cd5b90.png",
+    "static/media/formulario-de-referencia.pdf": "/ostrya-build/static/media/formulario-de-referencia.d8c3ad92a2592d3e4726.pdf",
     "static/media/family.png": "/ostrya-build/static/media/family.2c1616c4bc4cd22c8d92.png",
     "static/media/fa-solid-900.eot": "/ostrya-build/static/media/fa-solid-900.259e7659316cb06e8b14.eot",
     "static/media/fa-solid-900.ttf": "/ostrya-build/static/media/fa-solid-900.deb100ec94ec63cec6e7.ttf",
@@ -54,11 +55,11 @@
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
     "main.0ccf5c8d.css.map": "/ostrya-build/static/css/main.0ccf5c8d.css.map",
-    "main.96fab2ca.js.map": "/ostrya-build/static/js/main.96fab2ca.js.map",
+    "main.5d39696e.js.map": "/ostrya-build/static/js/main.5d39696e.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ccf5c8d.css",
-    "static/js/main.96fab2ca.js"
+    "static/js/main.5d39696e.js"
   ]
 }
