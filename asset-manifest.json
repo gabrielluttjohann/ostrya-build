@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ostrya-build/static/css/main.ea192968.css",
-    "main.js": "/ostrya-build/static/js/main.2374e739.js",
+    "main.css": "/ostrya-build/static/css/main.36d95084.css",
+    "main.js": "/ostrya-build/static/js/main.c20d9274.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/fa-duotone-900.svg": "/ostrya-build/static/media/fa-duotone-900.f187447b2b172f21a1bb.svg",
     "static/media/fa-light-300.svg": "/ostrya-build/static/media/fa-light-300.fd644543ca35b598f64b.svg",
@@ -11,6 +11,7 @@
     "static/media/about.png": "/ostrya-build/static/media/about.401c385ad1c26daf739b.png",
     "static/media/hero-01.png": "/ostrya-build/static/media/hero-01.31752b5b82440eeee437.png",
     "static/media/fa-brands-400.svg": "/ostrya-build/static/media/fa-brands-400.67baf29af14564cc5f35.svg",
+    "static/media/strategy.png": "/ostrya-build/static/media/strategy.fc312372dee74babea9b.png",
     "static/media/investments-03.png": "/ostrya-build/static/media/investments-03.c5bcd11de380ac75cebc.png",
     "static/media/investments-02.png": "/ostrya-build/static/media/investments-02.9bab74067271bfce2f04.png",
     "static/media/fa-duotone-900.eot": "/ostrya-build/static/media/fa-duotone-900.933243d3f4a403d075ab.eot",
@@ -56,12 +57,12 @@
     "static/media/independence.png": "/ostrya-build/static/media/independence.5cf964a506c847405cd0.png",
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
-    "main.ea192968.css.map": "/ostrya-build/static/css/main.ea192968.css.map",
-    "main.2374e739.js.map": "/ostrya-build/static/js/main.2374e739.js.map",
+    "main.36d95084.css.map": "/ostrya-build/static/css/main.36d95084.css.map",
+    "main.c20d9274.js.map": "/ostrya-build/static/js/main.c20d9274.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea192968.css",
-    "static/js/main.2374e739.js"
+    "static/css/main.36d95084.css",
+    "static/js/main.c20d9274.js"
   ]
 }
