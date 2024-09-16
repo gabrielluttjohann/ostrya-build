@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ostrya-build/static/css/main.36d95084.css",
-    "main.js": "/ostrya-build/static/js/main.9e4b8a23.js",
+    "main.js": "/ostrya-build/static/js/main.b7319511.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/multifamily.jpg": "/ostrya-build/static/media/multifamily.93d009dfb23bd86f26cd.jpg",
     "static/media/multifamily-01.jpg": "/ostrya-build/static/media/multifamily-01.0a2ee23d100dc9cf7cd4.jpg",
@@ -34,18 +34,15 @@
     "static/media/fa-light-300.woff": "/ostrya-build/static/media/fa-light-300.14338d088c9b86258cdb.woff",
     "static/media/evaluation-01.jpeg": "/ostrya-build/static/media/evaluation-01.4a9d08ba29d060a18025.jpeg",
     "static/media/fa-regular-400.woff": "/ostrya-build/static/media/fa-regular-400.06bf81a201178decf29a.woff",
-    "static/media/mentoring-04.png": "/ostrya-build/static/media/mentoring-04.f319028d5af5da180a38.png",
-    "static/media/mentoring-01.png": "/ostrya-build/static/media/mentoring-01.61ee113d43bbfbba7a40.png",
+    "static/media/mentoring-01.png": "/ostrya-build/static/media/mentoring-01.4842d20d7a4d0dd8020c.png",
     "static/media/politica-de-compliance.pdf": "/ostrya-build/static/media/politica-de-compliance.9015c20a17f9265a8f64.pdf",
     "static/media/codigo-de-etica.pdf": "/ostrya-build/static/media/codigo-de-etica.19c7bad8e2ffc2dcab2a.pdf",
     "static/media/fa-light-300.woff2": "/ostrya-build/static/media/fa-light-300.9edbabc6bdccca123a05.woff2",
     "static/media/fa-solid-900.woff": "/ostrya-build/static/media/fa-solid-900.0cc237d5f02e14d3a916.woff",
     "static/media/fa-duotone-900.woff2": "/ostrya-build/static/media/fa-duotone-900.d3ae0e9030731f16a221.woff2",
-    "static/media/mentoring-02.png": "/ostrya-build/static/media/mentoring-02.f42f727eaddfe405a49a.png",
     "static/media/fa-regular-400.woff2": "/ostrya-build/static/media/fa-regular-400.6f182a403c97e0e79648.woff2",
     "static/media/politica-de-seguranca-da-informacao.pdf": "/ostrya-build/static/media/politica-de-seguranca-da-informacao.071b94afe85f644090b8.pdf",
     "static/media/politica-de-investimentos.pdf": "/ostrya-build/static/media/politica-de-investimentos.5ddc4fccfa7912f67dba.pdf",
-    "static/media/mentoring-03.png": "/ostrya-build/static/media/mentoring-03.72c2f01507d64603221b.png",
     "static/media/politica-de-prevencao-a-lavagem-de-dinheiro.pdf": "/ostrya-build/static/media/politica-de-prevencao-a-lavagem-de-dinheiro.710d4c42d3bd4890940f.pdf",
     "static/media/method-01.png": "/ostrya-build/static/media/method-01.a1662de1f681952eb634.png",
     "static/media/fa-brands-400.eot": "/ostrya-build/static/media/fa-brands-400.59b4d0d406e282f4231f.eot",
@@ -61,11 +58,11 @@
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
     "main.36d95084.css.map": "/ostrya-build/static/css/main.36d95084.css.map",
-    "main.9e4b8a23.js.map": "/ostrya-build/static/js/main.9e4b8a23.js.map",
+    "main.b7319511.js.map": "/ostrya-build/static/js/main.b7319511.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36d95084.css",
-    "static/js/main.9e4b8a23.js"
+    "static/js/main.b7319511.js"
   ]
 }
