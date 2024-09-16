@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ostrya-build/static/css/main.36d95084.css",
-    "main.js": "/ostrya-build/static/js/main.f263422d.js",
+    "main.js": "/ostrya-build/static/js/main.ffaa51ca.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/multifamily.jpg": "/ostrya-build/static/media/multifamily.93d009dfb23bd86f26cd.jpg",
     "static/media/multifamily-01.jpg": "/ostrya-build/static/media/multifamily-01.0a2ee23d100dc9cf7cd4.jpg",
@@ -47,6 +47,7 @@
     "static/media/politica-de-investimentos.pdf": "/ostrya-build/static/media/politica-de-investimentos.5ddc4fccfa7912f67dba.pdf",
     "static/media/mentoring-03.png": "/ostrya-build/static/media/mentoring-03.72c2f01507d64603221b.png",
     "static/media/politica-de-prevencao-a-lavagem-de-dinheiro.pdf": "/ostrya-build/static/media/politica-de-prevencao-a-lavagem-de-dinheiro.710d4c42d3bd4890940f.pdf",
+    "static/media/method-01.png": "/ostrya-build/static/media/method-01.a1662de1f681952eb634.png",
     "static/media/fa-brands-400.eot": "/ostrya-build/static/media/fa-brands-400.59b4d0d406e282f4231f.eot",
     "static/media/fa-brands-400.ttf": "/ostrya-build/static/media/fa-brands-400.c0f9dccd4ca01dd0217f.ttf",
     "static/media/fa-solid-900.woff2": "/ostrya-build/static/media/fa-solid-900.d7475e39f70533c40ca5.woff2",
@@ -60,11 +61,11 @@
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
     "main.36d95084.css.map": "/ostrya-build/static/css/main.36d95084.css.map",
-    "main.f263422d.js.map": "/ostrya-build/static/js/main.f263422d.js.map",
+    "main.ffaa51ca.js.map": "/ostrya-build/static/js/main.ffaa51ca.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36d95084.css",
-    "static/js/main.f263422d.js"
+    "static/js/main.ffaa51ca.js"
   ]
 }
