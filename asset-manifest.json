@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ostrya-build/static/css/main.36d95084.css",
-    "main.js": "/ostrya-build/static/js/main.0021d66d.js",
+    "main.js": "/ostrya-build/static/js/main.afbf0359.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/multifamily.jpg": "/ostrya-build/static/media/multifamily.93d009dfb23bd86f26cd.jpg",
     "static/media/multifamily-01.jpg": "/ostrya-build/static/media/multifamily-01.0a2ee23d100dc9cf7cd4.jpg",
@@ -45,7 +45,7 @@
     "static/media/fa-regular-400.woff2": "/ostrya-build/static/media/fa-regular-400.6f182a403c97e0e79648.woff2",
     "static/media/politica-de-seguranca-da-informacao.pdf": "/ostrya-build/static/media/politica-de-seguranca-da-informacao.071b94afe85f644090b8.pdf",
     "static/media/politica-de-investimentos.pdf": "/ostrya-build/static/media/politica-de-investimentos.5ddc4fccfa7912f67dba.pdf",
-    "static/media/mentoring-03.png": "/ostrya-build/static/media/mentoring-03.f40f15d7864471d98281.png",
+    "static/media/mentoring-03.png": "/ostrya-build/static/media/mentoring-03.72c2f01507d64603221b.png",
     "static/media/politica-de-prevencao-a-lavagem-de-dinheiro.pdf": "/ostrya-build/static/media/politica-de-prevencao-a-lavagem-de-dinheiro.710d4c42d3bd4890940f.pdf",
     "static/media/fa-brands-400.eot": "/ostrya-build/static/media/fa-brands-400.59b4d0d406e282f4231f.eot",
     "static/media/fa-brands-400.ttf": "/ostrya-build/static/media/fa-brands-400.c0f9dccd4ca01dd0217f.ttf",
@@ -60,11 +60,11 @@
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
     "main.36d95084.css.map": "/ostrya-build/static/css/main.36d95084.css.map",
-    "main.0021d66d.js.map": "/ostrya-build/static/js/main.0021d66d.js.map",
+    "main.afbf0359.js.map": "/ostrya-build/static/js/main.afbf0359.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36d95084.css",
-    "static/js/main.0021d66d.js"
+    "static/js/main.afbf0359.js"
   ]
 }
