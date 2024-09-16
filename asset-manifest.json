@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ostrya-build/static/css/main.36d95084.css",
-    "main.js": "/ostrya-build/static/js/main.afbf0359.js",
+    "main.js": "/ostrya-build/static/js/main.f263422d.js",
     "static/js/787.d4aba7ab.chunk.js": "/ostrya-build/static/js/787.d4aba7ab.chunk.js",
     "static/media/multifamily.jpg": "/ostrya-build/static/media/multifamily.93d009dfb23bd86f26cd.jpg",
     "static/media/multifamily-01.jpg": "/ostrya-build/static/media/multifamily-01.0a2ee23d100dc9cf7cd4.jpg",
@@ -60,11 +60,11 @@
     "static/media/dripicons-v2.woff": "/ostrya-build/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
     "index.html": "/ostrya-build/index.html",
     "main.36d95084.css.map": "/ostrya-build/static/css/main.36d95084.css.map",
-    "main.afbf0359.js.map": "/ostrya-build/static/js/main.afbf0359.js.map",
+    "main.f263422d.js.map": "/ostrya-build/static/js/main.f263422d.js.map",
     "787.d4aba7ab.chunk.js.map": "/ostrya-build/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36d95084.css",
-    "static/js/main.afbf0359.js"
+    "static/js/main.f263422d.js"
   ]
 }
